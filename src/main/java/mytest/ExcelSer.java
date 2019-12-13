@@ -16,12 +16,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.PushbackInputStream;
 
-public class TestRead {
+public class ExcelSer {
 
     public static void main(String[] args) {
 
         // excel文件路径
-        String excelPath = "E://菜单权限.xlsx";
+        String excelPath = "D:/readExcel/邮政pos-3月到11月数据--重庆.xlsx";
 
         try {
             // String encoding = "GBK";
